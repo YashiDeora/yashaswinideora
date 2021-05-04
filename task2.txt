@@ -1,3 +1,8 @@
 This is the 2nd edit
 
+
 Made branch b2 after pulling
+
+3rd edit after pulling || merge conflict
+
+#Resolved conflict
